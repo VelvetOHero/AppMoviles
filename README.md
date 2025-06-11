@@ -15,7 +15,7 @@ The app also takes count on the possibility that the user entered a day before, 
 It's not polished, but works. (I hope so)
 
 # Main Activity
-... JAVA
+...Java
     
     package com.example.practica4;
     
@@ -155,7 +155,7 @@ It's not polished, but works. (I hope so)
 ...
 
 # Layout
-... XML
+...XML
 
     <?xml version="1.0" encoding="utf-8"?>
     <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
