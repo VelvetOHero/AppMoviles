@@ -15,7 +15,7 @@ The app also takes count on the possibility that the user entered a day before, 
 It's not polished, but works. (I hope so)
 
 # Main Activity
-...Java
+```Java
     
     package com.example.practica4;
     
@@ -152,7 +152,7 @@ It's not polished, but works. (I hope so)
             });
         }
     }
-...
+```
 
 # Layout
 ...XML
